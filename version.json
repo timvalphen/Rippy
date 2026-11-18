@@ -1,0 +1,45 @@
+{
+  "version": "1.17",
+  "build": 34,
+  "minimumOS": "14.0",
+  "publishedAt": "2026-11-18",
+  "downloadURL": "https://github.com/timvalphen/Rippy/releases/download/V1.17/Rippy-1.17-34.zip",
+  "title": {
+    "nl": "Sneller werken en bijwerken vanuit Rippy",
+    "en": "Faster workflows and updates in Rippy"
+  },
+  "notes": {
+    "nl": [
+      "Video-uitvoer heeft drie opties: Auto zonder hercodering bij een geschikte bron, compatibele MP4 of automatisch comprimeren met Small File.",
+      "Auto levert H.264/AAC als MP4 voor QuickTime en After Effects. De beschikbare bron bepaalt de resolutie.",
+      "Comprimeer lokale video’s via de paperclip, door ze op het menubalkicoon te slepen of via ⤓ Comprimeer met Rippy in Finder. De compressie start direct met Small File; het origineel blijft bewaard.",
+      "Compressies tonen een videothumbnail en bestandsgroottes. Ongebruikte thumbnails worden verwijderd wanneer je kaarten uit de lijst wist.",
+      "De linkbalk heeft geen glowlijn. Rippy’s ogen volgen de muis bij de linkbalk en de Video/MP3-keuze.",
+      "Verbeterde videoprobes en timingcontrole voorkomen onterechte meldingen bij onder meer bijgesneden video’s.",
+      "Thema, taal, automatisch installeren van updates, het updatebolletje en starten bij inloggen blijven beschikbaar.",
+      "Kies voor de menubalk, het Dock of beide. Slepen opent alleen de gekozen weergave; het Dock-icoon blijft gelijk bij statuswissels.",
+      "Vanaf vijf compressies verschijnt één uitklapbare groep.",
+      "Directe video’s gebruiken waar mogelijk een snellere downloadroute. Dubbele scans zijn verwijderd; timingcontrole blijft behouden.",
+      "Nieuw menubalkicoon dat macOS volgt en een groen icoon bij voltooiing.",
+      "De introductie is bijgewerkt voor lokale video’s, compressie en de nieuwe icoonkeuze.",
+      "GitHub-updates worden vanuit Rippy gedownload, gecontroleerd en geïnstalleerd. Actieve taken worden niet onderbroken."
+    ],
+    "en": [
+      "Video output offers Auto without encoding when a suitable source exists, compatible MP4, or automatic Small File compression.",
+      "Auto delivers H.264/AAC MP4 for QuickTime and After Effects. The available source determines the resolution.",
+      "Compress local videos with the paperclip, by dropping them on the menu bar icon, or through ⤓ Compress with Rippy in Finder. Small File starts immediately; the original is kept.",
+      "Compression cards show a video thumbnail and file sizes. Unused thumbnails are removed when their cards leave the list.",
+      "The link field has no glowing outline. Rippy’s eyes follow the pointer near the link field and Video/MP3 selector.",
+      "Improved video probing and timing checks avoid false errors, including with trimmed videos.",
+      "Theme, language, in-app update installation, the update dot and Start at login remain available.",
+      "Choose the menu bar, Dock or both. Drops open only the chosen surface; the Dock icon stays unchanged across status updates.",
+      "Five or more compressions appear in one expandable group.",
+      "Direct videos can use a faster transfer path. Duplicate scans are removed while timing validation remains intact.",
+      "New menu bar artwork follows macOS appearance, with green completion feedback.",
+      "The introduction covers local videos, compression and icon placement.",
+      "GitHub updates download, verify and install inside Rippy. Active tasks are not interrupted."
+    ]
+  },
+  "sha256": "d304efac560702698bffc0a6fe6fb0edb10584e4b70b9a2ecb4c99c633b47c0b",
+  "size": 76379235
+}
